@@ -1,1 +1,1 @@
-# MECH105-Algorithms-
+# MECH105-Algorithms
