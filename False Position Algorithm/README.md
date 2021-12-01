@@ -1,5 +1,5 @@
 # False Position
-## This algorithm will use the False Position method to find the root of the function
+## This algorithm will use the False Position method to find the root of a function
 
 * **Inputs:**
     1. func = name of function; 
